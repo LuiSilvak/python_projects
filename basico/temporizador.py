@@ -24,6 +24,7 @@ else:
     print("Você não digitou um número. Tente novamente!")
     quit()
 
+print("\n")
 print("Tempo Encerrado!")
 
 
